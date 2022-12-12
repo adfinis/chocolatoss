@@ -5,6 +5,8 @@ Genuine acacia honey from the western forests of Australia combined with the
 finest macadamia nuts, which also originates from Australia. Coated in white
 chocolate.
 
+![](../pictures/chrissy_bikkie.png)
+
 ## Ingredients
 
 * 63x White chocolate praliné hollow shells (26mm diameter)

@@ -4,6 +4,8 @@
 Dark chocolcate filled with the finest salted caramel and decorated with the
 famous Dutch De Ruijter chocolate sprinkles.
 
+![](../pictures/double_dutch.png)
+
 ## Ingredients
 
 * 63x Dark chocolate praliné hollow shells (26mm diameter)

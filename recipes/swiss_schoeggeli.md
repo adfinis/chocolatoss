@@ -4,6 +4,8 @@
 Finest Swiss milk chocolate containing [Wybrand](https://wybrand.ch/) (brandy)
 made through sustainable upcycling.
 
+![](../pictures/swiss_schoeggeli.png)
+
 ## Ingredients
 
 * 63x Milk chocolate praliné hollow shells (26mm diameter)
